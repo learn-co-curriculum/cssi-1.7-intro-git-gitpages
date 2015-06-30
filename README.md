@@ -5,15 +5,12 @@ languages: git
 ---
 #Intro to Git and Github Pages
 
-#SWBAT Understand After the Lesson:
-+ Basic git workflow
-+ git init
-+ git add
-+ git commit
-+ setting remotes
-+ git push
-+ Github pages
-+ Fork and Clone
+#Objectives:
++ Understand the basic git workflow
++ Use git commands: git init, git add, git commit, git push
++ Set remotes
++ Deploy Github pages
++ Fork and Clone github labs
 
 #Motivation:
 Github is like facebook for developers. Developers created tools for source and version control - programs to help them manage the history of files and help share across teams. Much of the open source community rallied around one such tool, git, and you have heard of and now seen and created a profile on the Github, which hosts repositories for open source code.
