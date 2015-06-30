@@ -112,7 +112,7 @@ Sit back and watch the forking magic. When it’s finished, you’ll be taken to
 
 Clone your fork
 You’ve successfully forked the repository, but so far, the files only exist on GitHub. To be able to work on the project, you will need to get the files onto your computer. Here's how to clone it to a directory on your local machine.
-
+<img src= "images/clone.png">
 In the right sidebar of the repository page on Github, click to copy the URL for the repository. The url should be something like: ```https://github.com/YOUR-USERNAME/LAB-REPOSITORY.git```
 
 In Terminal, navigate to the directory where you want the files. (Use cd!)
