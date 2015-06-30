@@ -91,12 +91,12 @@ Github, which is so cool for storing our files and the history of our commits, a
 Here's an example github page with instruction to create your own!
 <a href= "http://google-cssi.github.io/sample-pages/">Example github page</a>
 
-#Initialize a repository
-#Set your remote to a repository on github
-#Add some changes, commit them, and push them up to the remote master branch
-#Checkout a branch named gh-pages
-#Push to a remote branch named gh-pages
-#Go check out your site!
++ Initialize a repository
++ Set your remote to a repository on github
++ Add some changes, commit them, and push them up to the remote master branch
++ Checkout a branch named gh-pages
++ Push to a remote branch named gh-pages
++ Go check out your site!
 
 You have already finished steps 1-3. Just three more steps to publish a site to the world!
 
