@@ -88,9 +88,9 @@ Here's an example github page with instruction to create your own!
 + Initialize a repository
 + Set your remote to a repository on github
 + Add some changes, commit them, and push them up to the remote master branch
-+ Checkout a branch named gh-pages
-+ Push to a remote branch named gh-pages
-+ Go check out your site!
++ Checkout a branch named gh-pages (`git checkout gh-pages`)
++ Push to a remote branch named gh-pages(`git push origin gh-pages`)
++ Go check out your site!(`http://username.github.io/profileproject/profile.html`)
 
 You have already finished steps 1-3. Just three more steps to publish a site to the world!
 Follow the directions above to create a github pages for your profile page project!
