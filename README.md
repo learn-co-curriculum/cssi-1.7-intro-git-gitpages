@@ -86,4 +86,3 @@ In the right sidebar of the repository page on Github, click to copy the URL for
 In Terminal, navigate to the directory where you want the files. (Use cd!)
 git clone, and paste the URL you copied, and hit enter.
 ```git clone https://github.com/YOUR-USERNAME/LAB-REPOSITORY.git```
->>>>>>> fb9e3855102d0361d9cb531d795d8edc2d37c028
