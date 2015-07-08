@@ -28,6 +28,7 @@ We will practice forking a repository here https://github.com/octocat/Spoon-Knif
   2. At “Where should we fork this repository?” popup, select own account.
   3. GitHub then redirects to a page with your username/lab-name in URL. Your account now has a copy on GitHub but you can’t edit it on your computer in Atom just yet.
   4. In the right sidebar of the repository page on Github, click to copy the http URL for the repository.
+
   <img src= "images/clone.png" "height= "300" width= "250">
   5. In terminal, in your Dev directory, enter "git clone" and paste the URL.Cloning a repository just means it is copied onto your computer from your github account.
   6. Terminal will prompt you to enter your github username and password.
