@@ -24,7 +24,7 @@ Github is like Facebook for developers. Developers created tools for source and 
 #Forking and Cloning
 We will practice forking a repository here https://github.com/octocat/Spoon-Knife
   1. Click “Fork” button to copy the GitHub repository
-  <img src= "https://raw.githubusercontent.com/learn-co-curriculum/cssi-1.7-intro-git-gitpages/master/images/clone.png">
+  <img src= "https://raw.githubusercontent.com/learn-co-curriculum/cssi-1.7-intro-git-gitpages/master/images/clone.png" width="300">
   2. At “Where should we fork this repository?” popup, select own account.
   3. GitHub then redirects to a page with your username/lab-name in URL. Your account now has a copy on GitHub but you can’t edit it on your computer in Atom just yet.
   4. In the right sidebar of the repository page on Github, click to copy the http URL for the repository.
