@@ -40,7 +40,7 @@ Github, which is so cool for storing our files and the history of our commits, a
   1. Open Chrome and go to www.github.com
   2. At the top right click the “+” new repository
   3. Name your repository “firstname_lastname”, make the repository public, and initialize with a README
-  4. Copy the repository URL
+  4. In the right sidebar of the repository page on Github, click to copy the http URL for the repository.
   5. Open your terminal
   6. cd into your dev folder
   7. git clone https://github.com/username/firstname_lastname.git
