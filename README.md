@@ -37,18 +37,24 @@ We will practice forking a repository here https://github.com/octocat/Spoon-Knif
 #Github pages
 Let's get a page online for the world to see!
 Github, which is so cool for storing our files and the history of our commits, also has an awesome Pages feature, which lets us publish simple websites for free, all from the command line.
+
   1. Open Chrome and go to www.github.com
   2. At the top right click the “+” new repository
-  3. Name your repository “firstname_lastname”, make the repository public, and initialize with a README
+  3. Name your repository ““username.github.io”, make the repository public, and initialize with a README
   4. In the right sidebar of the repository page on Github, click to copy the http URL for the repository.
   5. Open your terminal
   6. cd into your dev folder
-  7. git clone https://github.com/username/firstname_lastname.git
+  7. git clone https://github.com/username/username.github.io.git
   8. cd into your my_profile_project
-  9. mv your html and css page into your “firstname_lastname” repository
-  10. cd into your “firstname_lastname” repository
-  11. `git checkout -b gh-pages`
-  12. `git push origin gh-pages` (You may need your username and password again)
+  9. mv your html and css page into your “username.github.io.git” repository
+  10. cd into your “username.github.io.git” repository
+  11. git add .
+  12. git commit -m “first commit”
+  13. git push 
+  14. You will be prompted to enter your username and password
+  15. Check out http://username.github.io/ for your webpage!
+
+
 
 #Conclusion
 Two words: Open Source. There are over eight million people who use GitHub to store their code. Having a free account on GitHub means that anyone in the community can fork or clone your repositories and make changes to or contribute to your codebase. It’s all about people building publicly accessible applications together.
