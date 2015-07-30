@@ -1,8 +1,4 @@
----
-tags: cssi, git workflow, github
-level: 1
-languages: git
----
+
 #Intro to Git and GitHub Pages
 
 #Prior Knowledge:
