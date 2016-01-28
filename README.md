@@ -74,4 +74,4 @@ The previous steps will only work if you don't already have a username.github.io
 #Conclusion
 Two words: Open Source. There are over eight million people who use GitHub to store their code. Having a free account on GitHub means that anyone in the community can fork or clone your repositories and make changes to or contribute to your codebase. It’s all about people building publicly accessible applications together.
 
-<a href='https://learn.co/lessons/cssi-1.7-intro-git-gitpages' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1.7-intro-git-gitpages' title='Intro to Git and GitHub Pages'>Intro to Git and GitHub Pages</a> on Learn.co and start learning to code for free.</p>
